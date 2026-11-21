@@ -21,7 +21,6 @@ namespace Linq2
             {
                 Console.Write($"{number}");
             }
-
-            }
+        }
     }
 }
